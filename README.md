@@ -113,6 +113,22 @@ Developed an interactive dashboard for business stakeholders.
 
 ---
 
+## 📸 Dashboard Preview
+
+### 🔹 Main Dashboard
+![Dashboard Overview](images/Home_Overview.png)
+
+### 🔹 Filters Panel
+![Filters](images/Slicer.png)
+
+### 🔹 Tooltip 
+![Tooltip](images/Tooltip.png)
+
+### 🔹Insights
+![Insights](images/Insights.png)
+
+---
+
 ## 📈 Key Insights
 
 - **Category Leader:** Clothing generates the highest revenue (~$104K)
@@ -132,7 +148,7 @@ Developed an interactive dashboard for business stakeholders.
 - Focus marketing on high-performing categories (Clothing)
 - Target high-value customer segments (Adults & Middle-aged)
 
-
+---
 
 ## 🎯 Skills Demonstrated
 
@@ -151,4 +167,4 @@ This project demonstrates the ability to take raw customer data and transform it
 ---
 
 ## 🔗 Author
-**Yash Patel**  
+**Yash Patel**
